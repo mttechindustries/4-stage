@@ -1,0 +1,6 @@
+name: provenance
+version: '0.1'
+owner: MT Tech Industries LLC
+definition: >
+  Provenance is the traceable causal record connecting source, authority,
+  transformation path, output, receipt, and continuity state.
