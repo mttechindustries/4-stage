@@ -1,0 +1,7 @@
+name: harm
+version: '0.1'
+owner: MT Tech Industries LLC
+definition: >
+  Harm includes loss of user authority, unconsented retention, provenance loss,
+  continuity substitution, coerced action, hidden derivative creation, and
+  system behavior that prevents the user from exiting with their evidence.
