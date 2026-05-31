@@ -1,0 +1,7 @@
+name: derivative
+version: '0.1'
+owner: MT Tech Industries LLC
+definition: >
+  A derivative is any generated, transformed, summarized, embedded, modeled,
+  inferred, compressed, classified, trained-on, or re-instantiated output that
+  depends on user-originated material or user-provided context.
