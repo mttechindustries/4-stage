@@ -1,0 +1,29 @@
+# MTTI Sovereign Agent Runtime
+
+Owner: MT Tech Industries LLC
+Category: Sovereignty-grade agentic product runtime
+Repository: https://github.com/mttechindustries/4-stage
+
+## Canonical routes
+
+- / — product platform landing page
+- /README.md — repository overview and product realization statement
+- /docs/ARCHITECTURE.md — technical architecture and module map
+- /docs/agent-card.json — machine-readable agent capability card
+- /LICENSE — proprietary license notice
+
+## Core package paths
+
+- /src/sovereign_runtime/core.py — runtime primitives
+- /src/sovereign_runtime/coherence/pst.py — PST scoring
+- /src/sovereign_runtime/coherence/utct.py — UTCT pressure traversal
+- /src/sovereign_runtime/coherence/fracture.py — Fracture Tensor engine
+- /src/sovereign_runtime/coherence/embodiment_gate.py — build/no-build gate
+- /src/sovereign_runtime/qgate/q_gate.py — Q Gate evaluator
+- /src/sovereign_runtime/qgate/continuity.py — continuity assessment
+- /src/sovereign_runtime/realization/r_operator.py — Realization Operator
+- /src/sovereign_runtime/realization/dominance.py — dominance scoring
+
+## Product statement
+
+MTTI Sovereign Agent Runtime is the sovereignty layer for agentic AI: autonomous action with user veto, provenance receipts, coherence monitoring, Q-gated continuity, Realization Operator forecasting, and machine-readable trust.
