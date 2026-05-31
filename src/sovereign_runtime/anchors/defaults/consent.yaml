@@ -1,0 +1,6 @@
+name: consent
+version: '0.1'
+owner: MT Tech Industries LLC
+definition: >
+  Consent is explicit, revocable, scoped permission for a defined runtime action,
+  data use, derivative creation, retention state, or external disclosure.
