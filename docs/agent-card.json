@@ -1,0 +1,38 @@
+{
+  "name": "MTTI Sovereign Agent Runtime",
+  "owner": "MT Tech Industries LLC",
+  "category": "sovereignty-grade agentic product runtime",
+  "version": "0.1.0",
+  "capabilities": [
+    "permission_classification",
+    "local_veto_boundary",
+    "ea_receipt_generation",
+    "pst_coherence_scoring",
+    "utct_pressure_traversal",
+    "q_gate_continuity_validation",
+    "realization_operator_resolution",
+    "exportable_audit_trail"
+  ],
+  "default_posture": {
+    "unbounded_execution": false,
+    "requires_receipts": true,
+    "supports_user_veto": true,
+    "supports_export": true,
+    "q_gate_available": true,
+    "false_precision_allowed": false
+  },
+  "permission_classes": {
+    "0": "read-only",
+    "1": "draft-recommend",
+    "2": "prepare-action",
+    "3": "reversible-action",
+    "4": "high-risk-action",
+    "5": "restricted-action"
+  },
+  "public_routes": [
+    "/",
+    "/docs/ARCHITECTURE.md",
+    "/docs/agent-card.json",
+    "/llms.txt"
+  ]
+}
